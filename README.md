@@ -2,7 +2,6 @@
 
 Installazione
 -------------
-    mkdir TGUserbot
 	apt-get -y install php php-mbstring php-xml php-gmp php-curl php-mcrypt php-bcmath
     curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/bin --filename=composer
     git clone https://github.com/TravisScottex/TGUserbot
