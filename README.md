@@ -24,20 +24,6 @@ Comandi
 Avvio
 -----
 	php start.php
-Avvio in background:
-
-	php start.php background
 
 
-Aggiornare la base
-------------------
-	php start.php update
 
-
-Supporto
---------
-[Gruppo Telegram](https://t.me/joinchat/AAAAAEHRBNZBqxOlwtwBaQ)
-
-[Gruppo Telegram di MadelineProto](https://t.me/pwrtelegramgroupita)
-
-[Gruppo Telegram di MadelineProto inglese](https://t.me/pwrtelegramgroup)
